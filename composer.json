@@ -1,0 +1,17 @@
+{
+    "name": "naheridi/swiss-aio",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Naheridi\\SwissAio\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexander Andreev",
+            "email": "alexanderfromearth@gmail.com"
+        }
+    ],
+    "require": {}
+}
